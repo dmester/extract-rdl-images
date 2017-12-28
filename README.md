@@ -1,7 +1,7 @@
 # Extract RDL Images
-In SRSS reports it is possible to embed images that can be used within the report. However once
+In SSRS reports it is possible to embed images that can be used within the report. However once
 embedded, it is not possible to extract the images from Report Builder. This tool consist
-of a single binary of 30 kB that is able to extract embedded images from SRSS `.rdl` report files.
+of a single binary of 30 kB that is able to extract embedded images from SSRS `.rdl` report files.
 
 ## Usage
 The tool can be operated in the following ways:
