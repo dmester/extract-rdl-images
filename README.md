@@ -3,6 +3,11 @@ In SSRS reports it is possible to embed images that can be used within the repor
 embedded, it is not possible to extract the images from Report Builder. This tool consist
 of a single binary of 30 kB that is able to extract embedded images from SSRS `.rdl` report files.
 
+## Download
+**[Download latest version](https://github.com/dmester/extract-rdl-images/releases/download/1.0.0/ExtractRdlImages.exe)**
+
+Requires .NET Framework 4.0 or later
+
 ## Usage
 The tool can be operated in the following ways:
 
